@@ -4,7 +4,7 @@ title: Functional Programming Concepts
 date: 2017-09-13 00:00:00 +0300
 description: Functional programming is a programming paradigm. # Add post description (optional)
 img: software.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [Til, Functional Programming, Software] # add tag
 ---
 
 
