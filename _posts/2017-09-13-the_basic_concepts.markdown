@@ -1,4 +1,12 @@
-# Functional Programming Concepts
+---
+layout: post
+title: Functional Programming Concepts
+date: 2017-09-13 00:00:00 +0300
+description: Functional programming is a programming paradigm. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
+
 
 Functional programming is a programming paradigm. A programming paradigm consists of the rules and design principles of building software; it’s a way of thinking about a programming language. The functional paradigm focuses on building software using pure functions organized in a way that describes what software must do, not how it must do it.
 
