@@ -7,10 +7,13 @@ img: software.jpg # Add image post (optional)
 tags: [Til, Functional Programming, Software] # add tag
 ---
 
-
 Functional programming is a programming paradigm. A programming paradigm consists of the rules and design principles of building software; it’s a way of thinking about a programming language. The functional paradigm focuses on building software using pure functions organized in a way that describes what software must do, not how it must do it.
 
-To learn about functional programming we need understanding the 3 principles:
+## First-class and higher-order functions
+
+Higher-order functions are functions that can either take other functions as arguments or return them as result. In calculus, an example of a higher order functions is the differential operator  _d/dx_, which returns the derivative of a function _f_.
+
+The distinction between the two is subtle: "higher-order" describes a mathematical concept of functions that operate on other functions, while "first-class" is a computer science term for programming language entities that have no restriction on their use.
 
 ## Immutability
 
@@ -74,4 +77,3 @@ end
 
 StringList.upcase(["we", "learning", "about fp"])
 # => ["WE", "LEARNING", "ABOUT FP"]
-```
