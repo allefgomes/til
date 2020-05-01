@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Functional Programming Concepts
-date: 2017-09-13 00:00:00 +0300
+date: 2020-04-29 00:00:00 +0300
 description: Functional programming is a programming paradigm. # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Til, Functional Programming, Software] # add tag
