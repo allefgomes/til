@@ -1,11 +1,4 @@
----
-layout: post
-title: Documentation on terminal iex
-date: 2020-04-30 00:00:00 +0300
-description: Show documentation of a function on iex terminal 
-img: elixir/default.png
-tags: [Til, Functional Programming, Elixir, Software]
----
+# Documentation on terminal iex
 
 To enter on a elixir terminal you can run:
 
